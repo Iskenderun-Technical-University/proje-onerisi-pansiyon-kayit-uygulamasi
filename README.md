@@ -12,3 +12,6 @@ Bu sistemler, müşterilerin kayıtlarının yapılması, saklanması,oda rezerv
 
 ### BU TARZ ÇALIŞMALARI YAPAN VAR MI?
 Evet var fakat biz projemizle diğer otomasyonlardan farklı şeyler amaçladık. Bilgilendirme sisteminin yanı sıra her yaştan kullanıcının sistemi kolaylıkla kullanabilmesi, pansiyondaki etkinliklerden haberdar olması, odaların durumunu,özelliklerini sistemimiz sayesinde detaylıca öğrenmesini,müşterilerin istedikleri işlemleri sistemden kolayca halledip çalışanlardan yardım almadan kolayca halledebilmesini amaçladık.
+
+images in uml
+![GİTHUB UML](https://user-images.githubusercontent.com/95904697/158869767-6352af10-ff6e-42c2-8235-05561b808586.jpg)
