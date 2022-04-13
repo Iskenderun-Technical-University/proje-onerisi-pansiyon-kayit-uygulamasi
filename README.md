@@ -24,7 +24,7 @@ Bu sistemler, müşterilerin kayıtlarının yapılması, saklanması,oda rezerv
 Evet var fakat biz projemizle diğer otomasyonlardan farklı şeyler amaçladık.Müşterilerin rahatlığı açısından pansiyonlarımızda yemek ve içecek imkanları sağladık. Pansiyon kayıt sayfamızdan gazete okuyabilmlerini ve radyo dinleyebildikleri imkanlar sağladık. Bilgilendirme sisteminin yanı sıra her yaştan kullanıcının sistemi kolaylıkla kullanabilmesi, pansiyondaki etkinliklerden haberdar olması, odaların durumunu,özelliklerini sistemimiz sayesinde detaylıca öğrenmesini,müşterilerin istedikleri işlemleri sistemden kolayca halledip çalışanlardan zor durumda kalmadıkça yardım istemeden kolayca halledebilmesini amaçladık.
 
 
-
+Deneme
 
 
 images in uml
