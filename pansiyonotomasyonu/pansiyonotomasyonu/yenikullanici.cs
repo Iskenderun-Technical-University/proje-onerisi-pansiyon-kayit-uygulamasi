@@ -56,7 +56,7 @@ namespace pansiyonotomasyonu
             komut.ExecuteNonQuery();
             komutt.ExecuteNonQuery();
             baglanti.Close();
-            MessageBox.Show("kayıt yapıldı...");
+            MessageBox.Show("KAYIT yapıldı...");
         }
     }
 }
