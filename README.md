@@ -25,6 +25,7 @@ Evet var fakat biz projemizle diğer otomasyonlardan farklı şeyler amaçladık
 
 
 Deneme
+Deneme2
 
 
 images in uml
