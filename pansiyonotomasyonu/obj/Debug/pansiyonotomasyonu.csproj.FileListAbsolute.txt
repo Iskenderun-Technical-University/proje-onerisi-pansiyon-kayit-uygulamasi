@@ -1,0 +1,61 @@
+C:\Users\gberf\source\repos\pansiyonotomasyonu\pansiyonotomasyonu\bin\Debug\pansiyonotomasyonu.exe.config
+C:\Users\gberf\source\repos\pansiyonotomasyonu\pansiyonotomasyonu\bin\Debug\pansiyonotomasyonu.exe
+C:\Users\gberf\source\repos\pansiyonotomasyonu\pansiyonotomasyonu\bin\Debug\pansiyonotomasyonu.pdb
+C:\Users\gberf\source\repos\pansiyonotomasyonu\pansiyonotomasyonu\obj\Debug\pansiyonotomasyonu.csproj.AssemblyReference.cache
+C:\Users\gberf\source\repos\pansiyonotomasyonu\pansiyonotomasyonu\obj\Debug\pansiyonotomasyonu.Properties.Resources.resources
+C:\Users\gberf\source\repos\pansiyonotomasyonu\pansiyonotomasyonu\obj\Debug\pansiyonotomasyonu.csproj.GenerateResource.cache
+C:\Users\gberf\source\repos\pansiyonotomasyonu\pansiyonotomasyonu\obj\Debug\pansiyonotomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\gberf\source\repos\pansiyonotomasyonu\pansiyonotomasyonu\obj\Debug\pansiyonotomasyonu.exe
+C:\Users\gberf\source\repos\pansiyonotomasyonu\pansiyonotomasyonu\obj\Debug\pansiyonotomasyonu.pdb
+C:\Users\gberf\source\repos\pansiyonotomasyonu\pansiyonotomasyonu\obj\Debug\pansiyonotomasyonu.anaform.resources
+C:\Users\gberf\source\repos\pansiyonotomasyonu\pansiyonotomasyonu\obj\Debug\pansiyonotomasyonu.yenikullanici.resources
+C:\Users\gberf\source\repos\pansiyonotomasyonu\pansiyonotomasyonu\obj\Debug\pansiyonotomasyonu.hizmetligirispanel.resources
+C:\Users\gberf\source\repos\pansiyonotomasyonu\pansiyonotomasyonu\obj\Debug\pansiyonotomasyonu.kayitlimusterikullanici.resources
+C:\Users\gberf\source\repos\pansiyonotomasyonu\pansiyonotomasyonu\obj\Debug\pansiyonotomasyonu.yoneticigirispaneli.resources
+C:\Users\gberf\source\repos\pansiyonotomasyonu\pansiyonotomasyonu\bin\Debug\pansiyonotomasyonu.exe.manifest
+C:\Users\gberf\source\repos\pansiyonotomasyonu\pansiyonotomasyonu\bin\Debug\pansiyonotomasyonu.application
+C:\Users\gberf\source\repos\pansiyonotomasyonu\pansiyonotomasyonu\obj\Debug\pansiyonotomasyonu.exe.manifest
+C:\Users\gberf\source\repos\pansiyonotomasyonu\pansiyonotomasyonu\obj\Debug\pansiyonotomasyonu.application
+C:\Users\Acer\OneDrive\Masaüstü\pansiyon kayıt uygulaması\proje-onerisi-pansiyon-kayit-uygulamasi\pansiyonotomasyonu\pansiyonotomasyonu\bin\Debug\pansiyonotomasyonu.exe.config
+C:\Users\Acer\OneDrive\Masaüstü\pansiyon kayıt uygulaması\proje-onerisi-pansiyon-kayit-uygulamasi\pansiyonotomasyonu\pansiyonotomasyonu\bin\Debug\pansiyonotomasyonu.exe.manifest
+C:\Users\Acer\OneDrive\Masaüstü\pansiyon kayıt uygulaması\proje-onerisi-pansiyon-kayit-uygulamasi\pansiyonotomasyonu\pansiyonotomasyonu\bin\Debug\pansiyonotomasyonu.application
+C:\Users\Acer\OneDrive\Masaüstü\pansiyon kayıt uygulaması\proje-onerisi-pansiyon-kayit-uygulamasi\pansiyonotomasyonu\pansiyonotomasyonu\bin\Debug\pansiyonotomasyonu.exe
+C:\Users\Acer\OneDrive\Masaüstü\pansiyon kayıt uygulaması\proje-onerisi-pansiyon-kayit-uygulamasi\pansiyonotomasyonu\pansiyonotomasyonu\bin\Debug\pansiyonotomasyonu.pdb
+C:\Users\Acer\OneDrive\Masaüstü\pansiyon kayıt uygulaması\proje-onerisi-pansiyon-kayit-uygulamasi\pansiyonotomasyonu\pansiyonotomasyonu\obj\Debug\pansiyonotomasyonu.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive\Masaüstü\pansiyon kayıt uygulaması\proje-onerisi-pansiyon-kayit-uygulamasi\pansiyonotomasyonu\pansiyonotomasyonu\obj\Debug\pansiyonotomasyonu.anaform.resources
+C:\Users\Acer\OneDrive\Masaüstü\pansiyon kayıt uygulaması\proje-onerisi-pansiyon-kayit-uygulamasi\pansiyonotomasyonu\pansiyonotomasyonu\obj\Debug\pansiyonotomasyonu.hizmetligirispanel.resources
+C:\Users\Acer\OneDrive\Masaüstü\pansiyon kayıt uygulaması\proje-onerisi-pansiyon-kayit-uygulamasi\pansiyonotomasyonu\pansiyonotomasyonu\obj\Debug\pansiyonotomasyonu.yenikullanici.resources
+C:\Users\Acer\OneDrive\Masaüstü\pansiyon kayıt uygulaması\proje-onerisi-pansiyon-kayit-uygulamasi\pansiyonotomasyonu\pansiyonotomasyonu\obj\Debug\pansiyonotomasyonu.kayitlimusterikullanici.resources
+C:\Users\Acer\OneDrive\Masaüstü\pansiyon kayıt uygulaması\proje-onerisi-pansiyon-kayit-uygulamasi\pansiyonotomasyonu\pansiyonotomasyonu\obj\Debug\pansiyonotomasyonu.Properties.Resources.resources
+C:\Users\Acer\OneDrive\Masaüstü\pansiyon kayıt uygulaması\proje-onerisi-pansiyon-kayit-uygulamasi\pansiyonotomasyonu\pansiyonotomasyonu\obj\Debug\pansiyonotomasyonu.yoneticigirispaneli.resources
+C:\Users\Acer\OneDrive\Masaüstü\pansiyon kayıt uygulaması\proje-onerisi-pansiyon-kayit-uygulamasi\pansiyonotomasyonu\pansiyonotomasyonu\obj\Debug\pansiyonotomasyonu.csproj.GenerateResource.cache
+C:\Users\Acer\OneDrive\Masaüstü\pansiyon kayıt uygulaması\proje-onerisi-pansiyon-kayit-uygulamasi\pansiyonotomasyonu\pansiyonotomasyonu\obj\Debug\pansiyonotomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Masaüstü\pansiyon kayıt uygulaması\proje-onerisi-pansiyon-kayit-uygulamasi\pansiyonotomasyonu\pansiyonotomasyonu\obj\Debug\pansiyonotomasyonu.exe.manifest
+C:\Users\Acer\OneDrive\Masaüstü\pansiyon kayıt uygulaması\proje-onerisi-pansiyon-kayit-uygulamasi\pansiyonotomasyonu\pansiyonotomasyonu\obj\Debug\pansiyonotomasyonu.application
+C:\Users\Acer\OneDrive\Masaüstü\pansiyon kayıt uygulaması\proje-onerisi-pansiyon-kayit-uygulamasi\pansiyonotomasyonu\pansiyonotomasyonu\obj\Debug\pansiyonotomasyonu.exe
+C:\Users\Acer\OneDrive\Masaüstü\pansiyon kayıt uygulaması\proje-onerisi-pansiyon-kayit-uygulamasi\pansiyonotomasyonu\pansiyonotomasyonu\obj\Debug\pansiyonotomasyonu.pdb
+C:\Users\Acer\OneDrive\Masaüstü\pansiyon kayıt uygulaması\proje-onerisi-pansiyon-kayit-uygulamasi\pansiyonotomasyonu\pansiyonotomasyonu\obj\Debug\pansiyonotomasyonu.Müşteri_Sayfası.resources
+C:\Users\Acer\OneDrive\Masaüstü\pansiyon kayıt uygulaması\proje-onerisi-pansiyon-kayit-uygulamasi\pansiyonotomasyonu\pansiyonotomasyonu\obj\Debug\pansiyonotomasyonu.Odalar.resources
+C:\Users\Acer\OneDrive\Masaüstü\pansiyon kayıt uygulaması\proje-onerisi-pansiyon-kayit-uygulamasi\pansiyonotomasyonu\pansiyonotomasyonu\bin\Debug\Interop.WMPLib.dll
+C:\Users\Acer\OneDrive\Masaüstü\pansiyon kayıt uygulaması\proje-onerisi-pansiyon-kayit-uygulamasi\pansiyonotomasyonu\pansiyonotomasyonu\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Acer\OneDrive\Masaüstü\pansiyon kayıt uygulaması\proje-onerisi-pansiyon-kayit-uygulamasi\pansiyonotomasyonu\pansiyonotomasyonu\obj\Debug\Interop.WMPLib.dll
+C:\Users\Acer\OneDrive\Masaüstü\pansiyon kayıt uygulaması\proje-onerisi-pansiyon-kayit-uygulamasi\pansiyonotomasyonu\pansiyonotomasyonu\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Acer\OneDrive\Masaüstü\pansiyon kayıt uygulaması\proje-onerisi-pansiyon-kayit-uygulamasi\pansiyonotomasyonu\pansiyonotomasyonu\obj\Debug\pansiyonotomasyonu.csproj.ResolveComReference.cache
+C:\Users\Acer\OneDrive\Masaüstü\pansiyon kayıt uygulaması\proje-onerisi-pansiyon-kayit-uygulamasi\pansiyonotomasyonu\pansiyonotomasyonu\obj\Debug\pansiyonotomasyonu.Radyo_Dinle.resources
+C:\Users\Acer\OneDrive\Masaüstü\pansiyon kayıt uygulaması\proje-onerisi-pansiyon-kayit-uygulamasi\pansiyonotomasyonu\pansiyonotomasyonu\obj\Debug\pansiyonotomasyonu.gazeler.resources
+C:\Users\Acer\OneDrive\Masaüstü\pansiyon kayıt uygulaması\proje-onerisi-pansiyon-kayit-uygulamasi\pansiyonotomasyonu\pansiyonotomasyonu\obj\Debug\pansiyonotomasyonu.oda101.resources
+C:\Users\Acer\OneDrive\Masaüstü\pansiyon kayıt uygulaması\proje-onerisi-pansiyon-kayit-uygulamasi\pansiyonotomasyonu\pansiyonotomasyonu\obj\Debug\pansiyonotomasyonu.oda102.resources
+C:\Users\Acer\OneDrive\Masaüstü\pansiyon kayıt uygulaması\proje-onerisi-pansiyon-kayit-uygulamasi\pansiyonotomasyonu\pansiyonotomasyonu\obj\Debug\pansiyonotomasyonu.oda103.resources
+C:\Users\Acer\OneDrive\Masaüstü\pansiyon kayıt uygulaması\proje-onerisi-pansiyon-kayit-uygulamasi\pansiyonotomasyonu\pansiyonotomasyonu\obj\Debug\pansiyonotomasyonu.oda201.resources
+C:\Users\Acer\OneDrive\Masaüstü\pansiyon kayıt uygulaması\proje-onerisi-pansiyon-kayit-uygulamasi\pansiyonotomasyonu\pansiyonotomasyonu\obj\Debug\pansiyonotomasyonu.oda202.resources
+C:\Users\Acer\OneDrive\Masaüstü\pansiyon kayıt uygulaması\proje-onerisi-pansiyon-kayit-uygulamasi\pansiyonotomasyonu\pansiyonotomasyonu\obj\Debug\pansiyonotomasyonu.oda203.resources
+C:\Users\Acer\OneDrive\Masaüstü\pansiyon kayıt uygulaması\proje-onerisi-pansiyon-kayit-uygulamasi\pansiyonotomasyonu\pansiyonotomasyonu\obj\Debug\pansiyonotomasyonu.oda301.resources
+C:\Users\Acer\OneDrive\Masaüstü\pansiyon kayıt uygulaması\proje-onerisi-pansiyon-kayit-uygulamasi\pansiyonotomasyonu\pansiyonotomasyonu\obj\Debug\pansiyonotomasyonu.oda302.resources
+C:\Users\Acer\OneDrive\Masaüstü\pansiyon kayıt uygulaması\proje-onerisi-pansiyon-kayit-uygulamasi\pansiyonotomasyonu\pansiyonotomasyonu\obj\Debug\pansiyonotomasyonu.oda303.resources
+C:\Users\Acer\OneDrive\Masaüstü\pansiyon kayıt uygulaması\proje-onerisi-pansiyon-kayit-uygulamasi\pansiyonotomasyonu\pansiyonotomasyonu\obj\Debug\pansiyonotomasyonu.oda401.resources
+C:\Users\Acer\OneDrive\Masaüstü\pansiyon kayıt uygulaması\proje-onerisi-pansiyon-kayit-uygulamasi\pansiyonotomasyonu\pansiyonotomasyonu\obj\Debug\pansiyonotomasyonu.oda402.resources
+C:\Users\Acer\OneDrive\Masaüstü\pansiyon kayıt uygulaması\proje-onerisi-pansiyon-kayit-uygulamasi\pansiyonotomasyonu\pansiyonotomasyonu\obj\Debug\pansiyonotomasyonu.oda403.resources
+C:\Users\Acer\OneDrive\Masaüstü\pansiyon kayıt uygulaması\proje-onerisi-pansiyon-kayit-uygulamasi\pansiyonotomasyonu\pansiyonotomasyonu\obj\Debug\pansiyonotomasyonu.oda501.resources
+C:\Users\Acer\OneDrive\Masaüstü\pansiyon kayıt uygulaması\proje-onerisi-pansiyon-kayit-uygulamasi\pansiyonotomasyonu\pansiyonotomasyonu\obj\Debug\pansiyonotomasyonu.oda502.resources
+C:\Users\Acer\OneDrive\Masaüstü\pansiyon kayıt uygulaması\proje-onerisi-pansiyon-kayit-uygulamasi\pansiyonotomasyonu\pansiyonotomasyonu\obj\Debug\pansiyonotomasyonu.oda503.resources
+C:\Users\Acer\OneDrive\Masaüstü\pansiyon kayıt uygulaması\proje-onerisi-pansiyon-kayit-uygulamasi\pansiyonotomasyonu\pansiyonotomasyonu\obj\Debug\pansiyonotomasyonu.etkinlikveMenüler.resources
