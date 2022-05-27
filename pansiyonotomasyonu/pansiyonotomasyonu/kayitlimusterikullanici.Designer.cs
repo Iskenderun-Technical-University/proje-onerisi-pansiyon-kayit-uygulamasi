@@ -38,6 +38,7 @@ namespace pansiyonotomasyonu
             this.gerigitbutton = new System.Windows.Forms.Button();
             this.bindingSource1 = new System.Windows.Forms.BindingSource(this.components);
             this.pansiyonotomasyonDataSet5 = new pansiyonotomasyonu.pansiyonotomasyonDataSet5();
+            this.button3 = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.bindingSource1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pansiyonotomasyonDataSet5)).BeginInit();
             this.SuspendLayout();
@@ -78,17 +79,19 @@ namespace pansiyonotomasyonu
             // 
             // kullaniciaditextbox
             // 
+            this.kullaniciaditextbox.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.kullaniciaditextbox.Location = new System.Drawing.Point(314, 131);
             this.kullaniciaditextbox.Name = "kullaniciaditextbox";
-            this.kullaniciaditextbox.Size = new System.Drawing.Size(193, 22);
+            this.kullaniciaditextbox.Size = new System.Drawing.Size(193, 30);
             this.kullaniciaditextbox.TabIndex = 3;
             // 
             // sifretextbox
             // 
+            this.sifretextbox.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.sifretextbox.Location = new System.Drawing.Point(314, 208);
             this.sifretextbox.Name = "sifretextbox";
             this.sifretextbox.PasswordChar = '#';
-            this.sifretextbox.Size = new System.Drawing.Size(193, 22);
+            this.sifretextbox.Size = new System.Drawing.Size(193, 30);
             this.sifretextbox.TabIndex = 4;
             // 
             // gerigitbutton
@@ -114,6 +117,19 @@ namespace pansiyonotomasyonu
             this.pansiyonotomasyonDataSet5.DataSetName = "pansiyonotomasyonDataSet5";
             this.pansiyonotomasyonDataSet5.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema;
             // 
+            // button3
+            // 
+            this.button3.BackColor = System.Drawing.Color.Purple;
+            this.button3.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.button3.ForeColor = System.Drawing.SystemColors.ButtonFace;
+            this.button3.Location = new System.Drawing.Point(558, 434);
+            this.button3.Name = "button3";
+            this.button3.Size = new System.Drawing.Size(152, 53);
+            this.button3.TabIndex = 18;
+            this.button3.Text = "şifre yenile";
+            this.button3.UseVisualStyleBackColor = false;
+            this.button3.Click += new System.EventHandler(this.button3_Click);
+            // 
             // kayitlimusterikullanici
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -121,6 +137,7 @@ namespace pansiyonotomasyonu
             this.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.BackColor = System.Drawing.Color.Salmon;
             this.ClientSize = new System.Drawing.Size(812, 597);
+            this.Controls.Add(this.button3);
             this.Controls.Add(this.gerigitbutton);
             this.Controls.Add(this.sifretextbox);
             this.Controls.Add(this.kullaniciaditextbox);
@@ -129,6 +146,7 @@ namespace pansiyonotomasyonu
             this.Controls.Add(this.button1);
             this.Name = "kayitlimusterikullanici";
             this.Text = "kayitlikullanici";
+            this.Load += new System.EventHandler(this.kayitlimusterikullanici_Load);
             ((System.ComponentModel.ISupportInitialize)(this.bindingSource1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pansiyonotomasyonDataSet5)).EndInit();
             this.ResumeLayout(false);
@@ -141,10 +159,11 @@ namespace pansiyonotomasyonu
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.TextBox kullaniciaditextbox;
-        private System.Windows.Forms.TextBox sifretextbox;
         private System.Windows.Forms.Button gerigitbutton;
         private System.Windows.Forms.BindingSource bindingSource1;
         private pansiyonotomasyonDataSet5 pansiyonotomasyonDataSet5;
+        private System.Windows.Forms.Button button3;
+        public System.Windows.Forms.TextBox kullaniciaditextbox;
+        public System.Windows.Forms.TextBox sifretextbox;
     }
 }

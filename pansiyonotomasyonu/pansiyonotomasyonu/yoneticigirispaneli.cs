@@ -46,7 +46,7 @@ namespace pansiyonotomasyonu
                 SqlDataReader dr = cmd.ExecuteReader();
                 if (dr.Read())
                 {
-                    bosform frm = new bosform();
+                    yoneticisayfasi frm = new yoneticisayfasi();
                     frm.Show();
                     this.Hide();
 

@@ -52,9 +52,7 @@ namespace pansiyonotomasyonu
         {
             baglanti.Open();
             SqlCommand komut = new SqlCommand("insert into yenikullanici (ad,soyad,kullaniciadi,sifre,[telefon no],[t.c no]) values('" + adtextbox.Text+"','"+soyadtextbox.Text+"','"+textBox4.Text+"','"+sifretextbox.Text+"','"+numaratextbox.Text+"','"+TCtextBox.Text+"')",baglanti);
-            SqlCommand komutt = new SqlCommand("insert into musterigiristable(kullaniciadi,sifre) values('"+textBox4.Text+"','"+sifretextbox.Text+"')",baglanti);
             komut.ExecuteNonQuery();
-            komutt.ExecuteNonQuery();
             baglanti.Close();
             MessageBox.Show("KAYIT yapıldı...");
         }

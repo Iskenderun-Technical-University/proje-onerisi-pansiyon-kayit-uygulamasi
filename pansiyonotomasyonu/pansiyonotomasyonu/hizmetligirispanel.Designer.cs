@@ -116,6 +116,7 @@ namespace pansiyonotomasyonu
             this.Controls.Add(this.button3);
             this.Name = "hizmetligirispanel";
             this.Text = "hizmetligirispanel";
+            this.Load += new System.EventHandler(this.hizmetligirispanel_Load);
             ((System.ComponentModel.ISupportInitialize)(this.bindingSource1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

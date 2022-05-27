@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="pansiyonotomasyonu.exe" size="328672">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="pansiyonotomasyonu.exe" size="684000">
       <assemblyIdentity name="pansiyonotomasyonu" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>SIsNQI9rfb0dtjKtzhiAz8QL7rDijhvP6OEO2LB/D54=</dsig:DigestValue>
+        <dsig:DigestValue>bAqcTCpzU3rsdSZ+rpxKCWWewAZIhjhu+9Fg+um31oo=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

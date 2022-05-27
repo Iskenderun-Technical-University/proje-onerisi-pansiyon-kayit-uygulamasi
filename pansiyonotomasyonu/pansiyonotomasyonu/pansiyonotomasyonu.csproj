@@ -87,11 +87,23 @@
     <Compile Include="bosform.Designer.cs">
       <DependentUpon>bosform.cs</DependentUpon>
     </Compile>
+    <Compile Include="etkinlikform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="etkinlikform.Designer.cs">
+      <DependentUpon>etkinlikform.cs</DependentUpon>
+    </Compile>
     <Compile Include="hizmetligirispanel.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="hizmetligirispanel.Designer.cs">
       <DependentUpon>hizmetligirispanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="odadurumu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="odadurumu.Designer.cs">
+      <DependentUpon>odadurumu.cs</DependentUpon>
     </Compile>
     <Compile Include="pansiyonotomasyonDataSet.Designer.cs">
       <AutoGen>True</AutoGen>
@@ -102,6 +114,16 @@
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>pansiyonotomasyonDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="pansiyonotomasyonDataSet10.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>pansiyonotomasyonDataSet10.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="pansiyonotomasyonDataSet11.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>pansiyonotomasyonDataSet11.xsd</DependentUpon>
     </Compile>
     <Compile Include="pansiyonotomasyonDataSet2.Designer.cs">
       <AutoGen>True</AutoGen>
@@ -122,6 +144,38 @@
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>pansiyonotomasyonDataSet5.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="pansiyonotomasyonDataSet6.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>pansiyonotomasyonDataSet6.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="pansiyonotomasyonDataSet7.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>pansiyonotomasyonDataSet7.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="pansiyonotomasyonDataSet8.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>pansiyonotomasyonDataSet8.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="pansiyonotomasyonDataSet9.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>pansiyonotomasyonDataSet9.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="rezervasyon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="rezervasyon.Designer.cs">
+      <DependentUpon>rezervasyon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="sifreyenile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="sifreyenile.Designer.cs">
+      <DependentUpon>sifreyenile.cs</DependentUpon>
     </Compile>
     <Compile Include="yenikullanici.cs">
       <SubType>Form</SubType>
@@ -149,11 +203,44 @@
     <Compile Include="yoneticigirispaneli.Designer.cs">
       <DependentUpon>yoneticigirispaneli.cs</DependentUpon>
     </Compile>
+    <Compile Include="yoneticimusteriislemleri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="yoneticimusteriislemleri.Designer.cs">
+      <DependentUpon>yoneticimusteriislemleri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="yoneticisayfasi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="yoneticisayfasi.Designer.cs">
+      <DependentUpon>yoneticisayfasi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="yoneticiucretlendirme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="yoneticiucretlendirme.Designer.cs">
+      <DependentUpon>yoneticiucretlendirme.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="anaform.resx">
       <DependentUpon>anaform.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="bosform.resx">
+      <DependentUpon>bosform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="etkinlikform.resx">
+      <DependentUpon>etkinlikform.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="hizmetligirispanel.resx">
       <DependentUpon>hizmetligirispanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="odadurumu.resx">
+      <DependentUpon>odadurumu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rezervasyon.resx">
+      <DependentUpon>rezervasyon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="sifreyenile.resx">
+      <DependentUpon>sifreyenile.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="yenikullanici.resx">
       <DependentUpon>yenikullanici.cs</DependentUpon>
@@ -173,6 +260,15 @@
     </Compile>
     <EmbeddedResource Include="yoneticigirispaneli.resx">
       <DependentUpon>yoneticigirispaneli.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="yoneticimusteriislemleri.resx">
+      <DependentUpon>yoneticimusteriislemleri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="yoneticisayfasi.resx">
+      <DependentUpon>yoneticisayfasi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="yoneticiucretlendirme.resx">
+      <DependentUpon>yoneticiucretlendirme.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="pansiyonotomasyonDataSet.xsc">
       <DependentUpon>pansiyonotomasyonDataSet.xsd</DependentUpon>
@@ -195,6 +291,28 @@
     </None>
     <None Include="pansiyonotomasyonDataSet1.xss">
       <DependentUpon>pansiyonotomasyonDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="pansiyonotomasyonDataSet10.xsc">
+      <DependentUpon>pansiyonotomasyonDataSet10.xsd</DependentUpon>
+    </None>
+    <None Include="pansiyonotomasyonDataSet10.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>pansiyonotomasyonDataSet10.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="pansiyonotomasyonDataSet10.xss">
+      <DependentUpon>pansiyonotomasyonDataSet10.xsd</DependentUpon>
+    </None>
+    <None Include="pansiyonotomasyonDataSet11.xsc">
+      <DependentUpon>pansiyonotomasyonDataSet11.xsd</DependentUpon>
+    </None>
+    <None Include="pansiyonotomasyonDataSet11.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>pansiyonotomasyonDataSet11.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="pansiyonotomasyonDataSet11.xss">
+      <DependentUpon>pansiyonotomasyonDataSet11.xsd</DependentUpon>
     </None>
     <None Include="pansiyonotomasyonDataSet2.xsc">
       <DependentUpon>pansiyonotomasyonDataSet2.xsd</DependentUpon>
@@ -239,6 +357,50 @@
     </None>
     <None Include="pansiyonotomasyonDataSet5.xss">
       <DependentUpon>pansiyonotomasyonDataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="pansiyonotomasyonDataSet6.xsc">
+      <DependentUpon>pansiyonotomasyonDataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="pansiyonotomasyonDataSet6.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>pansiyonotomasyonDataSet6.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="pansiyonotomasyonDataSet6.xss">
+      <DependentUpon>pansiyonotomasyonDataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="pansiyonotomasyonDataSet7.xsc">
+      <DependentUpon>pansiyonotomasyonDataSet7.xsd</DependentUpon>
+    </None>
+    <None Include="pansiyonotomasyonDataSet7.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>pansiyonotomasyonDataSet7.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="pansiyonotomasyonDataSet7.xss">
+      <DependentUpon>pansiyonotomasyonDataSet7.xsd</DependentUpon>
+    </None>
+    <None Include="pansiyonotomasyonDataSet8.xsc">
+      <DependentUpon>pansiyonotomasyonDataSet8.xsd</DependentUpon>
+    </None>
+    <None Include="pansiyonotomasyonDataSet8.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>pansiyonotomasyonDataSet8.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="pansiyonotomasyonDataSet8.xss">
+      <DependentUpon>pansiyonotomasyonDataSet8.xsd</DependentUpon>
+    </None>
+    <None Include="pansiyonotomasyonDataSet9.xsc">
+      <DependentUpon>pansiyonotomasyonDataSet9.xsd</DependentUpon>
+    </None>
+    <None Include="pansiyonotomasyonDataSet9.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>pansiyonotomasyonDataSet9.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="pansiyonotomasyonDataSet9.xss">
+      <DependentUpon>pansiyonotomasyonDataSet9.xsd</DependentUpon>
     </None>
     <None Include="pansiyonotomasyonu_TemporaryKey.pfx" />
     <None Include="Properties\Settings.settings">

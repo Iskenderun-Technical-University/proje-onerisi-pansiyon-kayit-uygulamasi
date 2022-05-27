@@ -56,5 +56,10 @@ namespace pansiyonotomasyonu
             }
 
         }
+
+        private void hizmetligirispanel_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
